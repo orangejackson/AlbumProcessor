@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AlbumProcessor", "AlbumProcessor\AlbumProcessor.pyproj", "{AEB416BB-596D-405A-B56E-711DE6BE01C8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MetallumScraper", "MetallumScraper\MetallumScraper.pyproj", "{0F7FF796-744B-42F2-A954-B04F7D7A1E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB416BB-596D-405A-B56E-711DE6BE01C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB416BB-596D-405A-B56E-711DE6BE01C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7FF796-744B-42F2-A954-B04F7D7A1E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7FF796-744B-42F2-A954-B04F7D7A1E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {768B9A91-CC6C-4973-927F-34D43B31CDEA}
+	EndGlobalSection
+EndGlobal
